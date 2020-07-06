@@ -1,0 +1,3 @@
+[submodule "wdiov5"]
+	path = wdiov5
+	url = git@github.com:jorgepOktana/wdiov5.git

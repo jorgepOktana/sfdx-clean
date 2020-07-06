@@ -1,0 +1,19 @@
+{
+  "status": 0,
+  "result": {
+    "password": "O7|_uAKOwc",
+    "username": "test-2lfr04j6jwj0@example.com",
+    "devHubId": "jorgerpg09@outlook.com",
+    "id": "00DJ0000003XLgaMAG",
+    "createdBy": "jorgerpg09@outlook.com",
+    "createdDate": "2020-07-06T17:13:00.000+0000",
+    "expirationDate": "2020-07-13",
+    "status": "Active",
+    "edition": "Developer",
+    "orgName": "jorgeperozo company",
+    "accessToken": "00DJ0000003XLga!ARcAQMGtH3ltvVThCMURmxdmUJ_MSk1vGLS05q5tBSv7G4jmKeft.DOzov.eGqKdJwghKg7Ca7WzgB6UUWAkfNrIhRfBVp0G",
+    "instanceUrl": "https://drive-innovation-6760-dev-ed.cs10.my.salesforce.com/",
+    "clientId": "PlatformCLI",
+    "alias": "jorgeperozoMonJul614:12:38-032020"
+  }
+}
