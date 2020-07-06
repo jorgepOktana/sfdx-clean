@@ -33,3 +33,11 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+#wdio files
+wdio/node_modules/*
+wdio/npm-debug.log
+wdio/test/reports/allure-results/*
+wdio/test/reports/junit-results/*
+wdio/package-lock.json
+wdio/allure-report/data/test-cases/*
